@@ -20,3 +20,17 @@ npm install -D tailwindcss postcss autoprefixer
 
 ## Github settings
 
+## Use fonts
+
+Zen Dots
+Designed by Yoshimichi Ohira
+
+Highly apliciated with all creators.
+
+## References
+
+[GitHub Pages でポートフォリオを作ってみたい人生だったのでつくった](https://zenn.dev/entaku/articles/f5b87912475a27)
+[Next.js + GitHub Pagesのブログテンプレートを作った](https://zenn.dev/subt/articles/957bd5d01485e1)
+[Next.js 13のappディレクトリの基礎(Layout, Suspense, Data Fetching…)](https://reffect.co.jp/react/next-js-13-app)
+
+[Next.js 13 で開発方法はどう変わる？](https://zenn.dev/jtakahashi64/articles/a9d2ae3285ceb6)
