@@ -65,6 +65,9 @@ export default function Home() {
         <h1 className={`text-xl`}>
           Profile - ysk3da
         </h1>
+        <p className='font-zendots animate-tracking-in-expand'>
+          UNDERBARFACTORY
+        </p>
         <section>
           <p>
             My favorite foods are coffee, chocolate, dried figs, and dried persimmons.
@@ -115,9 +118,6 @@ export default function Home() {
           </ul>
         </section>
       </main>
-      <footer className={`mt-6 py-1 text-center`}>
-        <small>&copy; 2022 ysk3da</small>
-      </footer>
     </div>
   )
 }
