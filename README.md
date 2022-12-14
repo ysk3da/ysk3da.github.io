@@ -34,3 +34,10 @@ Highly apliciated with all creators.
 [Next.js 13のappディレクトリの基礎(Layout, Suspense, Data Fetching…)](https://reffect.co.jp/react/next-js-13-app)
 
 [Next.js 13 で開発方法はどう変わる？](https://zenn.dev/jtakahashi64/articles/a9d2ae3285ceb6)
+
+
+```html
+      <link rel="preconnect" href="https://fonts.googleapis.com"/>
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      <link href="https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap" rel="stylesheet"/>
+```
