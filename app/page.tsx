@@ -65,13 +65,19 @@ export default function Home() {
         <h1 className={`text-xl`}>
           Profile - ysk3da
         </h1>
-
-        <p className='my-[10rem] text-[32px]'>
-          Under constructing
-        </p>
         <section>
           <p>
             My favorite foods are coffee, chocolate, dried figs, and dried persimmons.
+          </p>
+          <p className='none'>
+          おもしろき<br/>
+          こともなき世を<br/>
+          おもしろく<br/>
+          <br/>
+          住みなすものは<br/>
+          心なりけり<br/>
+          <br/>
+            It is up to your mind to make this world interesting or to make it uninteresting.
           </p>
         </section>
         <section className='mb-4'>
