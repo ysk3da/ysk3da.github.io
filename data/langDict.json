@@ -1,0 +1,26 @@
+{
+  "GREETING": {
+      "ja": "おはよう",
+      "en": "hello"
+  },
+  "TOPLEAD": {
+    "ja":"Web技術が好きです。\n働く上で大切にしていることは「好きなものに夢中になること」",
+    "en":"I love web technologies.\nAll you need for the job is a passion for what you love!"
+  },
+  "POLICY": {
+    "ja":["よく見てよく聞いて","時間を守るは身を守る","優しい気持ち","整理整頓","スケジュールファースト","失敗を恐れない","夢中になれるものを見つける"],
+    "en":["Watch and listen carefully.","Be on time, be safe","Gentleness"," be neat and tidy","Schedule first","Don't be afraid to fail","Find something you are passionate about"]
+  },
+  "": {
+    "ja" :"個人の価値観の違いを尊重して、一人の人間として向き合う",
+    "en": "Respect differences in personal values and deal with people as individuals"
+  },
+  "TAKASUGI": {
+    "ja": "おもしろき\nこともなき世を\nおもしろく\n\n住みなすものは\n心なりけり\n",
+    "en": "It is up to your soul to make this world interesting or to make it uninteresting."
+  },
+  "TABEMONO": {
+    "ja":"好きなものはコーヒーとチョコレート、ドライいちじく、干し柿です。",
+    "en": "My favorite foods are coffee, chocolate, dried figs, and dried persimmons."
+  }
+}
