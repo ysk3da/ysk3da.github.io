@@ -1,4 +1,9 @@
 import Head from 'next/head'
+// switch locale temporary
+import useTranslate  from "../libs/useTranslate";
+// HTML parse
+import parse from 'html-react-parser';
+
 // import Image from 'next/image'
 // import styles from '../styles/Home.module.css'
 
@@ -54,6 +59,9 @@ const programArr = [
 ]
 
 export default function Home() {
+
+  const t = useTranslate('ja')
+
   return (
     <div className={``}>
       <Head>
@@ -70,17 +78,7 @@ export default function Home() {
         </p>
         <section>
           <p>
-            My favorite foods are coffee, chocolate, dried figs, and dried persimmons.
-          </p>
-          <p className='none'>
-          おもしろき<br/>
-          こともなき世を<br/>
-          おもしろく<br/>
-          <br/>
-          住みなすものは<br/>
-          心なりけり<br/>
-          <br/>
-            It is up to your mind to make this world interesting or to make it uninteresting.
+            {parse(t.TOPLEAD.replace(/\n/g, '<br/>'))}
           </p>
         </section>
         <section className='mb-4'>
