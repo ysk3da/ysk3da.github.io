@@ -1,4 +1,4 @@
-import UsersList from './UsersList';
+// import UsersList from './UsersList';
 import Counter from './Counter';
 import { Suspense } from 'react';
 const Test = () => {
@@ -7,7 +7,7 @@ const Test = () => {
       <h1 className="text-xl font-bold">Testページ</h1>
       <Counter />
       <Suspense fallback={<p className="mt-4">ユーザデータ　Loading...</p>}>
-        <UsersList />
+        {/* <UsersList /> */}
       </Suspense>
     </>
   );
