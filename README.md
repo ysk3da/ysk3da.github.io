@@ -5,6 +5,7 @@ This is my github.io
 make portfolio at github.io
 
 https://ysk3da.github.io
+https://ysk3da.github.io/en/
 
 ## install Next.js
 
